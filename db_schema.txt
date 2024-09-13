@@ -1,0 +1,57 @@
+{
+    email: username@flame.edu.in,
+    quiz1: {
+        progress: 0/1/2,
+        user_response: "",
+        ai_response: "",
+        is_identified: bool,
+        confidence: 0-100,
+        chats: {
+            "timestamp1": [
+                {
+                    "role": "user",
+                    "content": ""
+                },
+                {
+                    "role": "assistant",
+                    "content": ""
+                },
+
+                ...
+
+                {
+                    "role": "user",
+                    "content": ""
+                },
+                {
+                    "role": "assistant",
+                    "content": ""
+                }
+            ],
+            "timestamp2": [
+                {
+                    "role": "user",
+                    "content": ""
+                },
+                {
+                    "role": "assistant",
+                    "content": ""
+                },
+
+                ...
+
+                {
+                    "role": "user",
+                    "content": ""
+                },
+                {
+                    "role": "assistant",
+                    "content": ""
+                }
+            ]
+
+            ...
+            
+        }
+    }
+}
