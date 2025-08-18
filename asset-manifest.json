@@ -1,18 +1,14 @@
 {
   "files": {
-    "main.css": "/ai_exam/static/css/main.e9646362.css",
-    "main.js": "/ai_exam/static/js/main.aa5ccec0.js",
-    "static/js/359.44966a1c.chunk.js": "/ai_exam/static/js/359.44966a1c.chunk.js",
-    "static/js/172.14027639.chunk.js": "/ai_exam/static/js/172.14027639.chunk.js",
-    "static/media/logo.svg": "/ai_exam/static/media/logo.e9daa33ac495775249deaf1167db5059.svg",
-    "index.html": "/ai_exam/index.html",
-    "main.e9646362.css.map": "/ai_exam/static/css/main.e9646362.css.map",
-    "main.aa5ccec0.js.map": "/ai_exam/static/js/main.aa5ccec0.js.map",
-    "359.44966a1c.chunk.js.map": "/ai_exam/static/js/359.44966a1c.chunk.js.map",
-    "172.14027639.chunk.js.map": "/ai_exam/static/js/172.14027639.chunk.js.map"
+    "main.css": "/AI4NonSTEM/static/css/main.5dbf901a.css",
+    "main.js": "/AI4NonSTEM/static/js/main.9c427999.js",
+    "static/media/logo.svg": "/AI4NonSTEM/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/AI4NonSTEM/index.html",
+    "main.5dbf901a.css.map": "/AI4NonSTEM/static/css/main.5dbf901a.css.map",
+    "main.9c427999.js.map": "/AI4NonSTEM/static/js/main.9c427999.js.map"
   },
   "entrypoints": [
-    "static/css/main.e9646362.css",
-    "static/js/main.aa5ccec0.js"
+    "static/css/main.5dbf901a.css",
+    "static/js/main.9c427999.js"
   ]
 }
