@@ -1,0 +1,42 @@
+{
+  "name": "AI4NonSTEM",
+  "version": "1.0.0",
+  "main": "index.js",
+  "homepage": "https://flame-cai.github.io/ai_exam",
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -b main -d build",
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flame-cai/ai_exam.git"
+  },
+  "bugs": {
+    "url": "https://github.com/flame-cai/ai_exam/issues"
+  },
+  "dependencies": {
+    "html2pdf.js": "^0.10.3",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-scripts": "^5.0.1"
+  },
+  "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
+    "@babel/plugin-transform-private-property-in-object": "^7.25.9",
+    "gh-pages": "^6.3.0"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
